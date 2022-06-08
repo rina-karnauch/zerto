@@ -1,0 +1,45 @@
+
+.options-card{
+    background-color: #fafafa;
+    padding:10px;
+    width:100%;
+    height:100vh;
+}
+
+.information-title{
+    margin-left:15px;
+    margin-right:15px;
+
+    display: flex;           /* establish flex container */
+    flex-direction: column;  /* make main axis vertical */
+    justify-content: center; /* center items vertically, in this case */
+    align-items: center;     /* center items horizontally, in this case */
+
+    font-size:40px;
+    color: #020c2f;
+}
+
+.information{
+    margin-left:15px;
+    margin-right:15px;
+
+    display: flex;           /* establish flex container */
+    flex-direction: column;  /* make main axis vertical */
+    justify-content: center; /* center items vertically, in this case */
+    align-items: center;     /* center items horizontally, in this case */
+    font-size:25px;
+    color: #020c2f;
+}
+
+.options{
+    display: flex;           /* establish flex container */
+    flex-direction: column;  /* make main axis vertical */
+    justify-content: center; /* center items vertically, in this case */
+    align-items: center;     /* center items horizontally, in this case */
+
+    margin:10px;
+}
+
+.buttons{
+    display: inline-block;
+}

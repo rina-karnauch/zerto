@@ -1,0 +1,64 @@
+{
+  "sites": [
+    {
+      "name": "hujiConfession",
+      "ip": "123.123.123.123",
+      "platform": "Public Cloud",
+      "healthStatus": "Good"
+    },
+    {
+      "name": "TechnionConfession",
+      "ip": "123.123.124.164",
+      "platform": "Public Cloud",
+      "healthStatus": "Good"
+    },
+    {
+      "name": "Waze",
+      "ip": "123.154.123.154",
+      "platform": "Hyper-V",
+      "healthStatus": "Good"
+    },
+    {
+      "name": "HujiMoodle",
+      "ip": "100.101.123.151",
+      "platform": "VMware",
+      "healthStatus": "Warning"
+    },
+    {
+      "name": "HujiMoodle",
+      "ip": "100.101.123.151",
+      "platform": "VMware",
+      "healthStatus": "Warning"
+    },
+    {
+      "name": "HujiMoodle",
+      "ip": "100.101.123.151",
+      "platform": "VMware",
+      "healthStatus": "Warning"
+    },
+    {
+      "name": "HujiMoodle",
+      "ip": "100.101.123.151",
+      "platform": "VMware",
+      "healthStatus": "Warning"
+    },
+    {
+      "name": "HujiMoodle",
+      "ip": "100.101.123.151",
+      "platform": "VMware",
+      "healthStatus": "Warning"
+    },
+    {
+      "name": "HujiMoodle",
+      "ip": "100.101.123.151",
+      "platform": "VMware",
+      "healthStatus": "Warning"
+    },
+    {
+      "name": "HujiMoodle",
+      "ip": "100.101.123.151",
+      "platform": "VMware",
+      "healthStatus": "Warning"
+    }
+  ]
+}
